@@ -1,0 +1,26 @@
+.greenAnchor {
+  color: green;
+}
+
+#changeToDarkGreen:visited {
+  color:black; 
+}
+#changeOnHover:hover {
+  color:lightgreen;
+}
+#changeDarkWhenClicked:active {
+  color:black;
+}
+.hoverPractice:hover {
+  
+}
+
+.bodyBackground {
+    
+            text-align:center;
+            background-image:url("https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/155d73b570b90ded8a140526fcb8f2da/m/g/mgl-sc-m143-32162_jpg.webp");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            opacity:1;
+}
